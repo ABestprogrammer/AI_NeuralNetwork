@@ -2,6 +2,6 @@
 
 neural network for binary and multiclass classification
 
-dataset Parkinsons Disease, training, testing neural network using 
+dataset Parkinsons Disease
 
 building sequential model with dropouts, training, testing, visualizing 
